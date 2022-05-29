@@ -16,5 +16,7 @@
 <hr>
 
 ℹ️ Более подробная информация (Тарифы, цена, возможности) — [lavhost.ml/info](https://lavhost.ml/info)
+
 ❔Канал, чат - [@lavHost](https://t.me/lavHost), [@lavHostChat](https://t.me/lavHostChat)
+
 📲 Бот для покупки и управления - [@lavHostBot](https://t.me/lavHostBot)
